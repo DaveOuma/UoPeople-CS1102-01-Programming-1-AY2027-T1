@@ -35,7 +35,9 @@ The coursework covers fundamental programming concepts in Java, including:
 
 ```text
 UoPeople-CS1102-01-Programming-1-AY2027-T1/
-│
+├──Unit-1-Java-Fundamentals/
+│   ├── README.md
+│   └── src/
 ├── Unit-2-Control-Flow-and-Methods/
 │   ├── README.md
 │   └── src/
