@@ -33,7 +33,7 @@ The coursework covers fundamental programming concepts in Java, including:
 
 ## Repository Structure
 
-```text
+```text 
 UoPeople-CS1102-01-Programming-1-AY2027-T1/
 ├──Unit-1-Java-Fundamentals/
 │   ├── README.md
@@ -50,10 +50,22 @@ UoPeople-CS1102-01-Programming-1-AY2027-T1/
 │   ├── README.md
 │   └── src/
 │
-├── Unit-5-...
+├── Unit-5-Inheritance and Interfaces
 │   ├── README.md
 │   └── src/
-│
+│ 
+├── Unit-6-GUI and Multithreading
+│   ├── README.md
+│   └── src/
+|
+├── Unit-7-Collections and Streams
+│   ├── README.md
+│   └── src/
+|
+├── Unit-8-Advanced Integration - Building Complete Java Applications 
+│   ├── README.md
+│   └── src/
+|
 └── README.md
 ```
 
@@ -103,10 +115,11 @@ The projects are maintained primarily for:
 | Unit 2 | Control Flow and Methods      | Completed |
 | Unit 3 | Exception Handling and Arrays | Completed |
 | Unit 4 | Classes and Objects           | Completed |
-| Unit 5 | To be added                   | Pending   |
-| Unit 6 | To be added                   | Pending   |
-| Unit 7 | To be added                   | Pending   |
-| Unit 8 | To be added                   | Pending   |
+| Unit 5 | Inheritance and Interfaces    | Completed |
+| Unit 6 | GUI and Multithreading        | Pending   |
+| Unit 7 | Collections and Streams       | Pending   |
+| Unit 8 | Advanced Intergrations        | Pending   |
+| Unit 9 | Final Proctored Exams         | Pending   |
 
 ## Author
 
@@ -114,6 +127,8 @@ The projects are maintained primarily for:
 
 GitHub: [DaveOuma](https://github.com/DaveOuma)
 
----
+----------------------------------------------------------------------
 
 *This repository is maintained as a record of my learning and programming development during CS1102-01: Programming 1, AY2027-T1.*
+
+---------------------------------------------------------------------
