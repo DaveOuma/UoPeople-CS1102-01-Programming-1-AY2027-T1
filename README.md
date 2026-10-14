@@ -116,7 +116,7 @@ The projects are maintained primarily for:
 | Unit 3 | Exception Handling and Arrays | Completed |
 | Unit 4 | Classes and Objects           | Completed |
 | Unit 5 | Inheritance and Interfaces    | Completed |
-| Unit 6 | GUI and Multithreading        | Pending   |
+| Unit 6 | GUI and Multithreading        | Completed |
 | Unit 7 | Collections and Streams       | Pending   |
 | Unit 8 | Advanced Intergrations        | Pending   |
 | Unit 9 | Final Proctored Exams         | Pending   |
