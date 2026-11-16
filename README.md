@@ -117,9 +117,9 @@ The projects are maintained primarily for:
 | Unit 4 | Classes and Objects           | Completed |
 | Unit 5 | Inheritance and Interfaces    | Completed |
 | Unit 6 | GUI and Multithreading        | Completed |
-| Unit 7 | Collections and Streams       | Pending   |
-| Unit 8 | Advanced Intergrations        | Pending   |
-| Unit 9 | Final Proctored Exams         | Pending   |
+| Unit 7 | Collections and Streams       | Completed |
+| Unit 8 | Advanced Intergrations        | Completed |
+| Unit 9 | Final Proctored Exams         | Completed |
 
 ## Author
 
